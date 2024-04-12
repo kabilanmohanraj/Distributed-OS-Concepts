@@ -1,0 +1,3 @@
+API throttling is the practice of slowing down API calls to prevent the overload of your servers or other systems. This can be done manually by taking the server offline or by inserting a delay in the API call to prevent the overloading of your servers or other systems. Thus, API throttling is implemented directly on the server side using a language such as Java, Ruby, or Python.
+
+On the other hand, rate limiting is done on a user or client level. And although it does offer more granular control over the API’s usage access, it is harder to implement when treating the problem as a server-level problem.
