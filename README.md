@@ -6,3 +6,4 @@
 5. [Asynchronous Rust](https://www.youtube.com/watch?v=0HwrZp9CBD4)
 6. [Redis explained](https://architecturenotes.co/redis/) - simple and very good explanations [Redis works similar to Raft for replication]
 7. [AOSA Books](https://aosabook.org/en/index.html)
+8. [System Design Primer](https://github.com/donnemartin/system-design-primer)
